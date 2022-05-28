@@ -6,5 +6,5 @@ I've just implemented 3 algorithms and 1 evaluation function in `multiAgent.py` 
 * Expectimax Agent: `ExpectimaxAgent` *(Question 4)*
 * Evaluation Function: `myBetterEvaluationFunction(currentState)` *(Question 5)*
 
-*All for studying (CS106.UIT - Assignment 3)*
+*All for studying (CS106.UIT - Assignment 3)* \
 Sources: http://ai.berkeley.edu/home.html (Project 2 - Multiagent Search)
